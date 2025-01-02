@@ -27,6 +27,18 @@ const About = () => {
         </div>
         <img src="https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg" alt=""  className='w-[30rem]'/>
       </div>
+      <div className='flex items-center justify-evenly flex-wrap p-9 h-screen'>
+        <img src="https://images.pexels.com/photos/946727/pexels-photo-946727.jpeg?cs=srgb&dl=pexels-subin-342706-946727.jpg&fm=jpg" alt=""  className='w-[30rem]'/>
+        <div className='w-[35vw] text-sm'>
+            <h2 className='text-5xl font-semibold mb-5'>Our Mission</h2>
+            <p className='mb-4'>Hi there! I'm Jeri. I have a background in sustainable agriculture and a home in the city. I am passionate about sharing the ways that we can stay in touch with our natural community by gardening and building a plant community wherever we live.</p>
+            <p className='mb-10'>
+            I am excited to introduce more people to this wonderful community of gardeners. Along the way, I hope you'll find the tools that you need to dig in to your gardening life!
+            </p>
+            <a href="">Learn More</a>
+        </div>
+      </div>
+
     </>
   )
 }

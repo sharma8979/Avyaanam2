@@ -10,7 +10,7 @@ import Footer from './Footer'
 
 const Home = () => {
   return (
-    <div className=' min-h-screen'>
+    <div >
         <Navbar/>
         <Page1/>
         <Page2/>

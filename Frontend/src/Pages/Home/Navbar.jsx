@@ -26,11 +26,9 @@ const Navbar = () => {
     };
 
   return (
-<<<<<<< HEAD
-    <div className='flex fixed opacity-95 w-full bg-slate-600 justify-between items-center p-4  px-20 text-black'>
-=======
+
     <div className='flex fixed z-[99] w-full bg-white justify-between items-center p-4  px-20 text-black'>
->>>>>>> aae6f4589736cbfd0b5d7829cce8011a1fb34716
+
         <div className='text-2xl font-light p-5'> 
             AVYAANAM
         </div>
